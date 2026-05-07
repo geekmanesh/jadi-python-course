@@ -58,7 +58,7 @@ Clone this repository to your desired folder:
 
 ```sh
   # Clone
-  git clone https://github.com/Dimah-code/jadi-python-course.git
+  git clone https://github.com/geekmanesh/jadi-python-course.git
   cd jadi-python-course
   # 2. Create a virtual environment
   python -m venv .venv
@@ -97,10 +97,9 @@ To run the project, execute the following command:
 - Youtube: [Youtube](https://youtube.com/geekingjadi)
 
 
-👤 **Dimah**
+👤 **Geekmanesh**
 
-- GitHub: [@Dimah-code](https://github.com/Dimah-code)
-- Gmail: [@dimah.code@gmail.com](dimah.code@gmail.com)
+- GitHub: [@geekmanesh](https://github.com/geekmanesh)
 
 ## Future Features <a name="future-features"></a>
 
